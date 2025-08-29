@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=pprmsk)
 
-I'm Gijs, a 22 year old game developer from Hilversum, The Netherlands 🇳🇱. 
+I'm Gijs, a 22 year old game developer from <img src="https://github.com/user-attachments/assets/8fb45a02-941d-49bd-92e8-88da316fbbc6" width="15"/> **Hilversum, The Netherlands.** 
 
 Currently studying at the **AUAS** in Amsterdam and working on my own games and stuffs in the freetime.
 
@@ -41,4 +41,17 @@ Currently studying at the **AUAS** in Amsterdam and working on my own games and 
   <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-FF4D00?logo=aseprite&logoColor=white"/>
   <img alt="Tiled" src="https://img.shields.io/badge/Tiled-0093D1?logo=tiled&logoColor=white"/>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
+</p>
+
+### Where to find me?
+<p>
+   <a href="https://pprmsk.itch.io" target="_blank">
+      <img alt="itch.io" src="https://img.shields.io/badge/itch.io-FA5C5C.svg?&style=for-the-badge&logo=itch.io&logoColor=white" />
+   </a> 
+   <a href="https://www.linkedin.com/in/gijssoeteman" target="_blank">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+   </a>
+   <a href="https://x.com/papermsk" target="_blank">
+      <img alt="X" src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" />
+   </a> 
 </p>
