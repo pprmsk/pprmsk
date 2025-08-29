@@ -1,8 +1,8 @@
-## Hey there! Nice to meet you :) 
+## Hey! Welcome to my page :) 
 
 ![](https://komarev.com/ghpvc/?username=pprmsk)
 
-I'm a 22 year old game developer from The Netherlands 🇳🇱. 
+I'm Gijs, a 22 year old game developer from Hilversum, The Netherlands 🇳🇱. 
 
 Currently studying at the **AUAS** in Amsterdam and working on my own games and stuffs in the freetime.
 
