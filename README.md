@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=pprmsk)
 
-I'm Gijs, a 22 year old game developer from <img src="https://github.com/user-attachments/assets/8fb45a02-941d-49bd-92e8-88da316fbbc6" width="15"/> **Hilversum, The Netherlands.** 
+I'm Gijs, a 22 year old game developer from <img src="https://github.com/user-attachments/assets/8fb45a02-941d-49bd-92e8-88da316fbbc6" width="15"/> **The Netherlands.** 
 
 Currently studying at the **AUAS** in Amsterdam and working on my own games and stuffs in the freetime.
 
