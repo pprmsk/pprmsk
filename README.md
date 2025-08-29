@@ -7,6 +7,6 @@ I'm a 22 year old game developer from The Netherlands 🇳🇱. Currently studyi
 ### My skills
 
 <p>
-  [<img alt="Unity" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />](https://img.shields.io/badge/Unity-black?logo=unity)
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-black?logo=unit" />
   
 </p>
