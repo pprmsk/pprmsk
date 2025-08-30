@@ -36,10 +36,11 @@ Currently studying at the **AUAS** in Amsterdam and working on my own games and 
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white"/>
 </p>
 
-#### Design & Art
+#### Art & Design
 <p>
   <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-FF4D00?logo=aseprite&logoColor=white"/>
   <img alt="Tiled" src="https://img.shields.io/badge/Tiled-0093D1?logo=tiled&logoColor=white"/>
+   <br>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
 </p>
 
