@@ -2,9 +2,14 @@
 
 ![](https://komarev.com/ghpvc/?username=pprmsk)
 
-I'm Gijs, a 22 year old game developer from <img src="https://github.com/user-attachments/assets/8fb45a02-941d-49bd-92e8-88da316fbbc6" width="15"/> **The Netherlands.** 
+I'm Gijs, a 23 year old Game Developer from <img src="https://github.com/user-attachments/assets/8fb45a02-941d-49bd-92e8-88da316fbbc6" width="15"/> **The Netherlands.** 
 
-Currently studying at the **AUAS** in Amsterdam and working on my own games and stuffs in the freetime.
+I'm a **Technical Designer** intern at **[Little Chicken](https://www.littlechicken.nl/)**, currently studying at the **AUAS** in Amsterdam. <br>
+In my freetime, I enjoy creating my own games and experimenting with ideas.
+
+Projects I'm working on:
+- **SIXCESS** (name in progress) / A dice balatro-like
+- **FLOODED** / A rogue-lite game with ever-changing randomized islands and dungeons due to heavy flooding
 
 **Check out my [portfolio](https://gijssoeteman.com) for all my projects!**
 
